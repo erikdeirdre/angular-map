@@ -1,0 +1,12 @@
+[{
+	"icon": "http://maps.google.com/mapfiles/ms/icons/green-dot.png",
+	"lat": 42.1137334,
+	"lng": -70.8842593,
+  "address": "84 Summer St.",
+	"title": "Peter White"
+}, {
+	"icon": "http://maps.google.com/mapfiles/ms/icons/green-dot.png",
+	"lat": 42.1198881,
+	"lng": -70.8878854,
+	"title": "Mickey Mouse"
+}]
